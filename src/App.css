@@ -1,0 +1,15 @@
+.mgr-25 {
+  margin-right: 25px;
+}
+.mgr-5 {
+  margin-right: 5px;
+}
+.mgt-25 {
+  margin-top: 25px;
+}
+.table th, .table td {
+  vertical-align: unset !important;
+}
+.form-check-label {
+  cursor: pointer;
+}
